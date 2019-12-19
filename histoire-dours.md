@@ -9,7 +9,10 @@ Mr Brun décide de partir en promenade.
 Mr Brun qui vit dans la montagne se perd dans la forêt.
 
 # Chapitre 3
-
+Errant entre les amanites tue-mouche et les bolets de satan, il trouva _un petit coffre_ doré dans lequel il y avait une **carte au trésor**.  
+```sql
+select coffre from carte_au_trésor
+```
 
 # Chapitre 4
 
