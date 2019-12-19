@@ -1,5 +1,5 @@
 # Introduction
-
+C'est un ours brun qui s'appelle Mr Brun.
 
 # Chapitre 1 
 
