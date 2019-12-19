@@ -6,7 +6,7 @@ Mr Brun vit dans les montagnes avec une chèvre nommée Biquette. Il fait beau a
 Mr Brun décide de partir en promenade.
 
 # Chapitre 2
-
+Mr Brun qui vit dans la montagne se perd dans la forêt.
 
 # Chapitre 3
 
